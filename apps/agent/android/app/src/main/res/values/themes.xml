@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Dark" parent="Theme.Material3.Dark">
+        <!-- Customize your theme -->
+        <item name="colorPrimary">#121212</item> <!-- Dark primary color -->
+        <item name="colorPrimaryVariant">#1F1F1F</item>
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Text color -->
+        <item name="android:windowBackground">#121212</item> <!-- Background color -->
+        <item name="android:windowLightStatusBar">false</item> <!-- Dark icons -->
+    </style>
+</resources>

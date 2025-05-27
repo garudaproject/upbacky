@@ -1,0 +1,6 @@
+.gradle
+.kotlin
+
+app/build
+app/*.jks
+exported
